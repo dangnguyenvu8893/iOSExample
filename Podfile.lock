@@ -1,0 +1,101 @@
+PODS:
+  - Alamofire (4.8.2)
+  - iOSSnapshotTestCase (6.2.0):
+    - iOSSnapshotTestCase/SwiftSupport (= 6.2.0)
+  - iOSSnapshotTestCase/Core (6.2.0)
+  - iOSSnapshotTestCase/SwiftSupport (6.2.0):
+    - iOSSnapshotTestCase/Core
+  - IQKeyboardManagerSwift (6.5.1)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+  - ObjectMapper (3.5.1)
+  - Realm (3.19.1):
+    - Realm/Headers (= 3.19.1)
+  - Realm/Headers (3.19.1)
+  - RealmSwift (3.19.1):
+    - Realm (= 3.19.1)
+  - RxAlamofire (4.4.1):
+    - RxAlamofire/Core (= 4.4.1)
+  - RxAlamofire/Core (4.4.1):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 4.5)
+  - RxBlocking (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxRealm (0.7.6):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - RxTest (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - SVProgressHUD (2.2.5)
+  - "UITextView+Placeholder (1.3.3)"
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - iOSSnapshotTestCase
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Material
+  - ObjectMapper
+  - RealmSwift
+  - RxAlamofire (= 4.4.1)
+  - RxBlocking (= 4.5.0)
+  - RxCocoa (= 4.5.0)
+  - RxRealm (= 0.7.6)
+  - RxSwift (= 4.5.0)
+  - RxTest (= 4.5.0)
+  - SVProgressHUD
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSSnapshotTestCase
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Material
+    - Motion
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxAlamofire
+    - RxBlocking
+    - RxCocoa
+    - RxRealm
+    - RxSwift
+    - RxTest
+    - SVProgressHUD
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  iOSSnapshotTestCase: 9ab44cb5aa62b84d31847f40680112e15ec579a6
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Realm: fb377747e694c7deb62d402400454134fe321bee
+  RealmSwift: 1302b0ab60f3105a2b214a735eeb0938607cf16b
+  RxAlamofire: ed65f451f5a9a59419b0b9e705043dc01410edd9
+  RxBlocking: 79413e4d916f44bb3e113c5b2cc059e36fe58910
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxRealm: 5379eddd74f8d617ca7681d1f8d144af25b432b0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxTest: 3ccb66bfbace0bf7df1c43a7c75d046f8ce60372
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  "UITextView+Placeholder": c407b27599ea23cca425946fee3cf1db5d547008
+
+PODFILE CHECKSUM: 50cf8b8d23615821ca6702201052530f3d72d42d
+
+COCOAPODS: 1.8.3
